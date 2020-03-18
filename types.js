@@ -161,26 +161,26 @@
 
 // -------------------------- if
 
-if (true) {
-    console.log("Always true");
-} else {
-    console.log("Never happends");
-}
+// if (true) {
+//     console.log("Always true");
+// } else {
+//     console.log("Never happends");
+// }
 
-let name = "Ivan";
-if (name == "Ivan") {
-    console.log(`You are Ivan!`);
-} else {
-    console.log(`You aren't Ivan`);
-}
+// let name = "Ivan";
+// if (name == "Ivan") {
+//     console.log(`You are Ivan!`);
+// } else {
+//     console.log(`You aren't Ivan`);
+// }
 
-let time = 21;
-if (time > 18 && time <= 23) {
-    console.log("This is evening now");
-} else if (time > 23 || time <= 6) {
-    console.log("This is night time");
-} else if (time > 6 && time <= 10) {
-    console.log("Good morning!");
-} else {
-    console.log("Day time");
-}
+// let time = 21;
+// if (time > 18 && time <= 23) {
+//     console.log("This is evening now");
+// } else if (time > 23 || time <= 6) {
+//     console.log("This is night time");
+// } else if (time > 6 && time <= 10) {
+//     console.log("Good morning!");
+// } else {
+//     console.log("Day time");
+// }
